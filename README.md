@@ -14,3 +14,4 @@ contract NoteChain {
         message = _newMessage;
     }
 }
+Add setMessage function
