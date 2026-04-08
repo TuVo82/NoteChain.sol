@@ -17,3 +17,4 @@ contract NoteChain {
 Add setMessage function
 Clean unused variables
 Update function visibility
+Refactor storage logic
